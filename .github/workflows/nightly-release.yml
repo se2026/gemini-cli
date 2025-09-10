@@ -1,4 +1,6 @@
 name: 'Nightly Release'
+permissions:
+  contents: write
 
 on:
   schedule:
